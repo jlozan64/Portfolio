@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-center items-center">
     <div class="h-20 bottom-o py-8 flex">
-      <p class="pr-2">&copy; Rodolfo Roman</p>
+      <p class="pr-2">&copy; Janeth Lozano</p>
       <a class="github" href="https://github.com/rromanv" target="_blank"
         ><GithubCircle
       /></a>

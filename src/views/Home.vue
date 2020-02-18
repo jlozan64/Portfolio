@@ -17,7 +17,7 @@
         <h3
           class="text-3xl font-bold text-white px-4 hover:bg-white hover:text-blue-800 opacity-75"
         >
-          Full Stack Developer / Software Architect
+          Computer Technician
         </h3>
       </div>
     </div>

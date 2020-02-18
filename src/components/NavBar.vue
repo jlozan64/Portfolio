@@ -5,7 +5,7 @@
   >
     <div class="left">
       <span class="font-light text-3xl">
-        My
+        Personal
         <span class="font-semibold">Portfolio</span>
       </span>
     </div>
