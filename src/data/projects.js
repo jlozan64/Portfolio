@@ -8,7 +8,7 @@ import mynotes from '../assets/projects/06.png'
 const projects = [
   {
     name: 'Basic Todo App',
-    description: 'A Vanilla HTML, JS and CSS Todo Application',
+    description: 'A Vanilla HTML, JS and CSS Todo Application!',
     image: basictodo,
     hashtags: ['todo', 'html5', 'css', 'javascript'],
     url: 'https://basictodo.jjloz.xyz/'
