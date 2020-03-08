@@ -5,6 +5,7 @@ import inventory from '../assets/projects/04.png'
 import vuetodo from '../assets/projects/05.png'
 import mynotes from '../assets/projects/06.png'
 import thelogin from '../assets/projects/07.png'
+import superheroes from '../assets/projects/08.png'
 
 const projects = [
   {
@@ -55,6 +56,13 @@ const projects = [
     image: thelogin,
     hashtags: ['firebase', 'auth', 'vuejs', 'javascript', 'tailwind', 'vuex', 'vue-router'],
     url: 'https://thelogin.jjloz.xyz/'
+  },
+  {
+    name: 'Superheroes',
+    description: 'A Vue.js Application with Vuex, implementing a search.',
+    image: superheroes,
+    hashtags: ['vuejs', 'javascript', 'tailwind', 'vuex', 'vue-router'],
+    url: 'https://superheroes.jjloz.xyz/'
   }
 ]
 
