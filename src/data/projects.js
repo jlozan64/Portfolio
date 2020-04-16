@@ -7,6 +7,7 @@ import mynotes from '../assets/projects/06.png'
 import thelogin from '../assets/projects/07.png'
 import superheroes from '../assets/projects/08.png'
 import moviesdb from '../assets/projects/09.png'
+import blogapp from '../assets/projects/10.png'
 
 const projects = [
   {
@@ -71,6 +72,13 @@ const projects = [
     image: moviesdb,
     hashtags: ['API', 'vuejs', 'javascript', 'tailwind', 'vuex', 'vue-router'],
     url: 'https://moviesdb2.jjloz.xyz/'
+  },
+  {
+    name: 'Blog App',
+    description: 'Server Side app, using Node and Express and Frontend with Vue.',
+    image: blogapp,
+    hashtags: ['API', 'vuejs', 'node', 'express', 'frontend'],
+    url: 'https://blogapp.jjloz.xyz//'
   }
 ]
 
