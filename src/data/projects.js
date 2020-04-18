@@ -8,6 +8,7 @@ import thelogin from '../assets/projects/07.png'
 import superheroes from '../assets/projects/08.png'
 import moviesdb from '../assets/projects/09.png'
 import blogapp from '../assets/projects/10.png'
+import chatapp from '../assets/projects/11.png'
 
 const projects = [
   {
@@ -78,7 +79,14 @@ const projects = [
     description: 'Server Side app, using Node and Express and Frontend with Vue.',
     image: blogapp,
     hashtags: ['API', 'vuejs', 'node', 'express', 'frontend'],
-    url: 'https://blogapp.jjloz.xyz//'
+    url: 'https://blogapp.jjloz.xyz/'
+  },
+  {
+    name: 'Live Chat App',
+    description: 'Live Chat Application using Firestore database.',
+    image: chatapp,
+    hashtags: ['API', 'vuejs', 'firestore', 'firebase', 'frontend'],
+    url: 'https://chat.jjloz.xyz/'
   }
 ]
 
