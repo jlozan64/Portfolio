@@ -9,6 +9,7 @@ import superheroes from '../assets/projects/08.png'
 import moviesdb from '../assets/projects/09.png'
 import blogapp from '../assets/projects/10.png'
 import chatapp from '../assets/projects/11.png'
+import chatapp from '../assets/projects/12.png'
 
 const projects = [
   {
@@ -87,6 +88,13 @@ const projects = [
     image: chatapp,
     hashtags: ['API', 'vuejs', 'firestore', 'firebase', 'frontend'],
     url: 'https://chat.jjloz.xyz/'
+  },
+  {
+    name: 'Shop App',
+    description: 'A Pseudo Shop with Firebase.',
+    image: shopapp,
+    hashtags: ['API', 'vuejs', 'firebase', 'frontend'],
+    url: 'https://shop.jjloz.xyz/'
   }
 ]
 
