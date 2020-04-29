@@ -10,6 +10,7 @@ import moviesdb from '../assets/projects/09.png'
 import blogapp from '../assets/projects/10.png'
 import chatapp from '../assets/projects/11.png'
 import shopapp from '../assets/projects/12.png'
+import ponggame from '../assets/projects/13.png'
 
 const projects = [
   {
@@ -95,6 +96,13 @@ const projects = [
     image: shopapp,
     hashtags: ['API', 'vuejs', 'firebase', 'frontend'],
     url: 'https://shop.jjloz.xyz/'
+  },
+  {
+    name: 'Pong Game',
+    description: 'A simple game using p5 with vue',
+    image: ponggame,
+    hashtags: ['P5', 'vuejs', 'frontend'],
+    url: 'https://pong.jjloz.xyz/'
   }
 ]
 
